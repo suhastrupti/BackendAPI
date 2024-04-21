@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Student.Mangement.DB\Student.Mangement.DB.csproj" />
+    <ProjectReference Include="..\Student.Mangement.Entity\Student.Mangement.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

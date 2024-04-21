@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\Student.Mangement.DB\bin\Debug\net7.0\Student.Mangement.DB.deps.json
+C:\Users\Dell\source\repos\Student.Mangement.DB\bin\Debug\net7.0\Student.Mangement.DB.runtimeconfig.json
+C:\Users\Dell\source\repos\Student.Mangement.DB\bin\Debug\net7.0\Student.Mangement.DB.dll
+C:\Users\Dell\source\repos\Student.Mangement.DB\bin\Debug\net7.0\Student.Mangement.DB.pdb
+C:\Users\Dell\source\repos\Student.Mangement.DB\bin\Debug\net7.0\Student.Mangement.Entity.dll
+C:\Users\Dell\source\repos\Student.Mangement.DB\bin\Debug\net7.0\Student.Mangement.Entity.pdb
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.csproj.CopyComplete
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.dll
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\refint\Student.Mangement.DB.dll
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.pdb
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\Student.Mangement.DB.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Student.Mangement.DB\obj\Debug\net7.0\ref\Student.Mangement.DB.dll

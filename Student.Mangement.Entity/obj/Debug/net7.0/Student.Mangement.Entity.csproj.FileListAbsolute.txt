@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Student.Mangement.Entity\bin\Debug\net7.0\Student.Mangement.Entity.deps.json
+C:\Users\Dell\source\repos\Student.Mangement.Entity\bin\Debug\net7.0\Student.Mangement.Entity.dll
+C:\Users\Dell\source\repos\Student.Mangement.Entity\bin\Debug\net7.0\Student.Mangement.Entity.pdb
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\Student.Mangement.Entity.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\Student.Mangement.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\Student.Mangement.Entity.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\Student.Mangement.Entity.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\Student.Mangement.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\Student.Mangement.Entity.dll
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\refint\Student.Mangement.Entity.dll
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\Student.Mangement.Entity.pdb
+C:\Users\Dell\source\repos\Student.Mangement.Entity\obj\Debug\net7.0\ref\Student.Mangement.Entity.dll
